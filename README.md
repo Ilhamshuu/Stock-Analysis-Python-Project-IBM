@@ -26,8 +26,6 @@ The project uses the following data sources:
 - **Tesla Stock Data**: [Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
 - **Gamestop Stock Data**: [Yahoo Finance](https://finance.yahoo.com/quote/GME)
 
-You can find the raw data in the `data` directory.
-
 ---
 
 ## Analysis
